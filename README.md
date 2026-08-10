@@ -1,7 +1,7 @@
 # MNIST_from_scratch
 A simple fully connected neural network built from scratch (with some help from ChatGPT) using C language. The network was trained on MNIST dataset and achieved a 97.5% accuracy.
 
-I built this project to help me understand the fundamentals of a neural network (forward, backpropogation, mostly the math behind it.
+I built this project to help me understand the fundamentals of a neural network (forward, backpropogation, etc),  mostly the math behind it.
 
 ## Overview
 - ***activation-function.c:*** Implementations of a few activation functions.  
