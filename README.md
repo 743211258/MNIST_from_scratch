@@ -3,7 +3,7 @@ A simple fully connected neural network built from scratch (with some help from 
 
 I built this project to help me understand the fundamentals of a neural network (forward, backpropogation, mostly the math behind it.
 
-## Component
+## Overview
 ***activation-function.c:*** Implementations of a few activation functions.  
 ***define-struct.c:*** Implementations of a few functions for the struct layer.  
 ***loss-function.c:*** Implementation of the cross entropy loss function.  
